@@ -1,11 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Fatih
 
 
-- 🔭 I love maths, programming, web development and everything related to these topics😊
+- 🔭  I love maths, programming, web development and everything related to these topics😊
 - 🌱  I’m addicted to learning and growing every day!
-- 📫 How to reach me: 
-  -  ![LinkedinGIF](https://user-images.githubusercontent.com/125875338/230729563-a7dfeb67-931c-4ade-a462-249cd6fa11eb.gif)
-[LinkedIn](https://www.linkedin.com/in/fatih-ay1661/)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😇  Thank you for being here.
+
+![](https://komarev.com/ghpvc/?username=iamfatihay)
+
+
+![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGY0ZDM5NWE0OGQ3ZGVlY2I5YTk0ZDMxMDE1NzQwMmIxNGY1MzM0NyZjdD1n/LaVp0AyqR5bGsC5Cbm/giphy.gif)
 
