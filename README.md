@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 - 🔭 I love maths, programming, web development and everything related to these topics😊
 - 🌱  I’m addicted to learning and growing every day!
 - 📫 How to reach me: 
@@ -8,4 +8,4 @@
 [LinkedIn](https://www.linkedin.com/in/fatih-ay1661/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
