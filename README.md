@@ -23,13 +23,9 @@
 🔗 &nbsp;**Connect with me**
 <p align="left">
   
-<a href="https://twitter.com/Fatih__AY" target="_blank"><img align="center" src="https://raw.githubusercontent.com/nathanColton/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamfatihay" height="30" width="40"/></a>
+<a href="https://twitter.com/Fatih__AY" target="_blank"><img align="center" src="https://github.com/iamfatihay/iamfatihay/blob/master/twitter.png" alt="iamfatihay" height="30" width="30"/></a>      <a href="https://www.linkedin.com/in/fatih-ay1661/" target="_blank"><img align="center" src="https://github.com/iamfatihay/iamfatihay/blob/master/linkedin%20(1).png" alt="iamfatihay" height="30" width="30"/></a>
+  
+  
 
-
-<a href="https://www.linkedin.com/in/fatih-ay1661/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/iamfatihay/iamfatihay/master/linkedin.svg" alt="iamfatihay" height="30" width="30" style="background-color: #055df5;"/></a>
-  
-  
-  
-  <i class="fa-brands fa-linkedin" style="color: #055df5;"></i>
    
    
