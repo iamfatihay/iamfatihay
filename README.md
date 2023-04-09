@@ -3,9 +3,9 @@
 
 - 🔭  I love maths, programming, web development and everything related to these topics😊
 - 🌱  I’m addicted to learning and growing every day!
-- 😇  Thank you for being here.
+- 😇  Thank you for being here.👉[My linkedIn account](https://www.linkedin.com/in/fatih-ay1661/)👈
 
-[I'm an inline-style link](https://www.linkedin.com/in/fatih-ay1661/)
+
 
 ![](https://komarev.com/ghpvc/?username=iamfatihay)
 
@@ -18,3 +18,10 @@
 
 ![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGY0ZDM5NWE0OGQ3ZGVlY2I5YTk0ZDMxMDE1NzQwMmIxNGY1MzM0NyZjdD1n/LaVp0AyqR5bGsC5Cbm/giphy.gif)
 
+
+
+🔗 &nbsp;**Connect with me**
+<p align="left">
+<a href="https://twitter.com/Fatih__AY" target="blank"><img align="center" src="https://raw.githubusercontent.com/iamfatihay/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamfatihay" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fatih-ay1661/" target="blank"><img align="center" 
+src="https://raw.githubusercontent.com/nathanColton/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamfatihay" height="30" width="40" /></a>
