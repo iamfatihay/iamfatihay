@@ -26,10 +26,9 @@
 <a href="https://twitter.com/Fatih__AY" target="_blank"><img align="center" src="https://raw.githubusercontent.com/nathanColton/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamfatihay" height="30" width="40"/></a>
 
 
-<a href="https://www.linkedin.com/in/fatih-ay1661/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="iamfatihay" height="30" width="30"/></a>
+<a href="https://www.linkedin.com/in/fatih-ay1661/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/iamfatihay/iamfatihay/master/linkedin.svg" alt="iamfatihay" height="30" width="30"/></a>
   
   
-<i class="fa-brands fa-linkedin" style="color: #065ff9;"></i>
   
   
    
