@@ -5,7 +5,7 @@
 - 🌱  I’m addicted to learning and growing every day!
 - 😇  Thank you for being here.👉[My linkedIn account](https://www.linkedin.com/in/fatih-ay1661/)👈
 
-
+ 
 
 ![](https://komarev.com/ghpvc/?username=iamfatihay)
 
@@ -27,3 +27,10 @@
 
 
 <a href="https://www.linkedin.com/in/fatih-ay1661/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="iamfatihay" height="30" width="30"/></a>
+  
+  
+<i class="fa-brands fa-linkedin" style="color: #065ff9;"></i>
+  
+  
+   
+   
