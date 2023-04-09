@@ -22,6 +22,7 @@
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
+  
 <a href="https://twitter.com/Fatih__AY" target="_blank"><img align="center" src="https://raw.githubusercontent.com/nathanColton/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamfatihay" height="30" width="40"/></a>
 
 
