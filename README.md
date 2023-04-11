@@ -15,7 +15,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamfatihay&theme=chartreuse-dark" alt="my commit status" width="55%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamfatihay&theme=chartreuse-dark&layout=compact" alt="languages" width="55%">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iamfatihay&theme=chartreuse-dark&layout=compact" alt="languages" width="55%">
 
 
 ![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGY0ZDM5NWE0OGQ3ZGVlY2I5YTk0ZDMxMDE1NzQwMmIxNGY1MzM0NyZjdD1n/LaVp0AyqR5bGsC5Cbm/giphy.gif)
