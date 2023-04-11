@@ -11,7 +11,7 @@
 
 ![](https://komarev.com/ghpvc/?username=iamfatihay)
 
-<img src="https://github-readme-stats.vercel.app/api?username=iamfatihay&theme=chartreuse-dark" alt="my github stats" width="55%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=iamfatihay&theme=chartreuse-dark" alt="my github stats" width="55%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamfatihay&theme=chartreuse-dark" alt="my commit status" width="55%" />
 
