@@ -32,17 +32,43 @@
 </tr>
 </table>
 
+<div align=center style="margin-bottom:3rem">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=iamfatihay&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+
+
+
+
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block"><b>Technologies</b> 👨🏻‍💻</h1></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,bootstrap,tailwind,firebase,html,css,js,py,linux,md,materialui,sqlite,sass,nodejs,postman,styledcomponents,react,redux,ts,vscode,netlify&perline=14" />
+  </a>
+</p>
+
 <!-- ![](https://komarev.com/ghpvc/?username=iamfatihay) -->
 
 <!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=iamfatihay&theme=chartreuse-dark" alt="my github stats" width="45%"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=iamfatihay&theme=chartreuse-dark" alt="my commit status" width="45%" /> -->
 
 <!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iamfatihay&theme=chartreuse-dark&layout=compact" alt="languages" width="45%"> -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GIF Açıklaması](https://media0.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+Made by :  [iamfatihay](https://github.com/iamfatihay)
+
+Last Edited on: 21/6/2023
 
 <!-- 🔗<h1 align="center"><b>Connect with me</b></h1>
 
