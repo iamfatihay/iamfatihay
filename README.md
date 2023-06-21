@@ -17,6 +17,8 @@
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iamfatihay&theme=chartreuse-dark&layout=compact" alt="languages" width="55%">
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGY0ZDM5NWE0OGQ3ZGVlY2I5YTk0ZDMxMDE1NzQwMmIxNGY1MzM0NyZjdD1n/LaVp0AyqR5bGsC5Cbm/giphy.gif)
 
