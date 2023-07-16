@@ -63,13 +63,15 @@
 <!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iamfatihay&theme=chartreuse-dark&layout=compact" alt="languages" width="45%"> -->
 
 
-![GIF Açıklaması](https://media0.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif)
+<!-- ![GIF Açıklaması](https://media0.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif) -->
+<p align="center" ><img src="https://media0.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="350px"></p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 Made by :  [iamfatihay](https://github.com/iamfatihay)
 
-Last Edited on: 21/6/2023
+Last Edited on: 16/7/2023
 
 <!-- 🔗<h1 align="center"><b>Connect with me</b></h1>
 
