@@ -38,7 +38,7 @@
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=iamfatihay&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
-
+<br></br>
 
 
 
