@@ -4,8 +4,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+glad+you+came..&hearts;++;Self-taught+Full-Stack+Developer;Computer+Science+Student;Active+Learner/Researcher;Love+to+learn+new+stuffs.."></a>
 </p>
 
-
-- 🌱 I’m addicted to learning and growing every day!
 - 😇 Thank you for being here.👉[My linkedIn account](https://www.linkedin.com/in/fatih-ay1661/)👈 <a href="https://www.linkedin.com/in/fatih-ay1661/" target="_blank"><img align="center" src="https://github.com/iamfatihay/iamfatihay/blob/master/linkedin%20(1).png" alt="iamfatihay" height="30" width="30"/></a>
 -  🙋 Portfolio ----> <a href="https://portfolio-fay-react.netlify.app/" target="_blank"> Here! </a> 
 
