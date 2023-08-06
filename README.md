@@ -50,7 +50,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,bootstrap,tailwind,firebase,html,css,js,typescript,py,linux,md,materialui,sqlite,sass,nodejs,postman,styledcomponents,react,redux,ts,vscode,netlify&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,bootstrap,tailwind,firebase,html,css,js,typescript,py,django,linux,md,materialui,sqlite,sass,nodejs,postman,styledcomponents,react,redux,ts,vscode,netlify&perline=14" />
   </a>
 </p>
 
@@ -69,7 +69,7 @@
 
 Made by :  [iamfatihay](https://github.com/iamfatihay)
 
-Last Edited on: 16/7/2023
+Last Edited on: 06/8/2023
 
 <!-- 🔗<h1 align="center"><b>Connect with me</b></h1>
 
