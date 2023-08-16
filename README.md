@@ -50,7 +50,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,bootstrap,tailwind,firebase,html,css,js,typescript,py,django,linux,md,materialui,sqlite,sass,nodejs,postman,styledcomponents,react,redux,ts,vscode,netlify&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,bootstrap,tailwind,firebase,html,css,js,typescript,py,django,linux,md,materialui,sqlite,docker,sass,nodejs,postman,styledcomponents,react,redux,vscode,netlify&perline=14" />
   </a>
 </p>
 
