@@ -5,7 +5,7 @@
 </p>
 
 - 😇 Thank you for being here.👉[My linkedIn account](https://www.linkedin.com/in/fatih-ay1661/)👈 <a href="https://www.linkedin.com/in/fatih-ay1661/" target="_blank"><img align="center" src="https://github.com/iamfatihay/iamfatihay/blob/master/linkedin%20(1).png" alt="iamfatihay" height="30" width="30"/></a>
--  🙋 Portfolio ----> <a href="https://portfolio-fay-react.netlify.app/" target="blank"> Here! </a> 
+-  🙋 Portfolio ----> <a href="https://portfolio-fay-react.netlify.app/" target="_blank"> Here! </a> 
 
 - ![](https://komarev.com/ghpvc/?username=iamfatihay)
 
