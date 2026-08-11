@@ -43,34 +43,31 @@
 
 <div align="center">
 
-<!-- Stats via github-readme-stats (anuraghazra) - widely available -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iamfatihay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c2ff&icon_color=00c2ff&text_color=c9d1d9" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iamfatihay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c2ff&icon_color=00c2ff&text_color=c9d1d9" height="170" alt="GitHub Stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iamfatihay&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c2ff&text_color=c9d1d9" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iamfatihay&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c2ff&text_color=c9d1d9" height="170" alt="Top Languages" />
-</picture>
+<!-- Shields.io based stats - always reliable -->
+![GitHub Stats](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fiamfatihay&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=00c2ff&logo=github)
+![GitHub Followers](https://img.shields.io/github/followers/iamfatihay?style=for-the-badge&color=00c2ff&logo=github&label=Followers)
+![GitHub Stars](https://img.shields.io/github/stars/iamfatihay?style=for-the-badge&color=00c2ff&logo=github&label=Total%20Stars&affiliations=OWNER)
+
+<br/><br/>
+
+<!-- Profile Summary Cards (github action based - self hosted) -->
+<a href="https://github.com/iamfatihay">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamfatihay&theme=tokyonight" width="700" alt="Profile Details" />
+</a>
 
 <br/>
 
-<!-- Streak Stats (alternative instance) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=iamfatihay&theme=tokyonight&hide_border=true&background=0d1117&ring=00c2ff&fire=00c2ff&currStreakLabel=00c2ff" />
-  <img src="https://streak-stats.demolab.com/?user=iamfatihay&theme=tokyonight&hide_border=true&background=0d1117&ring=00c2ff&fire=00c2ff&currStreakLabel=00c2ff" alt="GitHub Streak" />
-</picture>
+<a href="https://github.com/iamfatihay">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamfatihay&theme=tokyonight" height="170" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamfatihay&theme=tokyonight&utcOffset=3" height="170" alt="Productive Time" />
+</a>
 
-</div>
+<br/>
 
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-<!-- Trophy - alternative instance -->
-<img src="https://github-profile-trophy.vercel.app/?username=iamfatihay&theme=tokyonight&row=1&column=7&margin-h=12&margin-w=10&no-bg=true&no-frame=true" alt="Trophies" />
+<a href="https://github.com/iamfatihay">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamfatihay&theme=tokyonight" height="170" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamfatihay&theme=tokyonight" height="170" alt="Most Commit Language" />
+</a>
 
 </div>
 
