@@ -39,10 +39,28 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fiamfatihay&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=00c2ff&logo=github)
+![Followers](https://img.shields.io/github/followers/iamfatihay?style=for-the-badge&color=00c2ff&logo=github&label=Followers)
+![Stars](https://img.shields.io/github/stars/iamfatihay?style=for-the-badge&color=00c2ff&logo=github&label=Total%20Stars&affiliations=OWNER)
+
+</div>
+
+---
+
 ## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamfatihay&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00c2ff&line=00c2ff&point=ffffff" width="100%" alt="Contribution Graph" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media0.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="350px" alt="Data doesn't lie" />
 </div>
 
 ---
