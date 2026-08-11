@@ -39,40 +39,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- Shields.io based stats - always reliable -->
-![GitHub Stats](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fiamfatihay&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=00c2ff&logo=github)
-![GitHub Followers](https://img.shields.io/github/followers/iamfatihay?style=for-the-badge&color=00c2ff&logo=github&label=Followers)
-![GitHub Stars](https://img.shields.io/github/stars/iamfatihay?style=for-the-badge&color=00c2ff&logo=github&label=Total%20Stars&affiliations=OWNER)
-
-<br/><br/>
-
-<!-- Profile Summary Cards (github action based - self hosted) -->
-<a href="https://github.com/iamfatihay">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamfatihay&theme=tokyonight" width="700" alt="Profile Details" />
-</a>
-
-<br/>
-
-<a href="https://github.com/iamfatihay">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamfatihay&theme=tokyonight" height="170" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamfatihay&theme=tokyonight&utcOffset=3" height="170" alt="Productive Time" />
-</a>
-
-<br/>
-
-<a href="https://github.com/iamfatihay">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamfatihay&theme=tokyonight" height="170" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamfatihay&theme=tokyonight" height="170" alt="Most Commit Language" />
-</a>
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
