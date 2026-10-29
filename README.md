@@ -14,9 +14,9 @@
 I build **web and mobile applications**, from the interface to the API.
 My current focus is **proPod** and **Nebula at Hyfindr**, alongside contributions to **Expo**.
 
-## <img src="assets/icon-building.svg" width="24" height="24" alt=""> What I'm building
+## <img src="assets/icon-building.svg" width="24" height="24" align="absmiddle" alt=""> What I'm building
 
-### <img src="assets/icon-mobile.svg" width="20" height="20" alt=""> proPod
+### <img src="assets/icon-mobile.svg" width="20" height="20" align="absmiddle" alt=""> proPod
 
 A mobile application for **iOS and Android**, currently in development.
 
@@ -24,14 +24,14 @@ A mobile application for **iOS and Android**, currently in development.
 - **Backend:** Python and FastAPI
 - **Release:** Public release planned; source code is private
 
-### <img src="assets/icon-work.svg" width="20" height="20" alt=""> Hyfindr · Nebula
+### <img src="assets/icon-work.svg" width="20" height="20" align="absmiddle" alt=""> Hyfindr · Nebula
 
 My main project at **Hyfindr**, where I develop the company's web platform.
 
 - **Backend:** PHP, Symfony and Sylius
 - **Web:** Application features and frontend development
 
-## <img src="assets/icon-opensource.svg" width="24" height="24" alt=""> Open source
+## <img src="assets/icon-opensource.svg" width="24" height="24" align="absmiddle" alt=""> Open source
 
 ### Expo · Android audio playback
 
@@ -42,7 +42,7 @@ with lock-screen controls active.
 - **Contribution:** Created a minimal reproduction and submitted a proposed fix.
 - **Code:** [Pull request #52193](https://github.com/expo/expo/pull/52193) · [Reproduction & steps](https://github.com/iamfatihay/expo-audio-lockscreen-playlist-crash)
 
-## <img src="assets/icon-technologies.svg" width="24" height="24" alt=""> Technologies
+## <img src="assets/icon-technologies.svg" width="24" height="24" align="absmiddle" alt=""> Technologies
 
 | Area | Technologies |
 | --- | --- |
